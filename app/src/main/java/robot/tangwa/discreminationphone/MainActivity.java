@@ -8,9 +8,10 @@ import android.util.Log;
 import com.iflytek.cloud.InitListener;
 import com.iflytek.cloud.SpeechRecognizer;
 import com.iflytek.cloud.SpeechUtility;
-import com.iflytek.cloud.util.Accelerometer;
 
-public class MainActivity extends Activity{
+
+public class MainActivity extends Activity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
