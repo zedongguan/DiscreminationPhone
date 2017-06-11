@@ -9,7 +9,7 @@ import android.support.v7.app.AppCompatActivity;
  * Created by 关泽东 on 2017/6/12.
  */
 
-public class GIt4Activity extends AppCompatActivity {
+public class GIt4Activity extends Activity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
