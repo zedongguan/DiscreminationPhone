@@ -9,7 +9,7 @@ import android.support.v7.app.AppCompatActivity;
  * Created by Administrator on 2017/6/11.
  */
 
-public class GitActivity extends AppCompatActivity {
+public class GitActivity extends Activity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
